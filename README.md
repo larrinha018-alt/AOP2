@@ -7,7 +7,7 @@ Blog sobre Games desenvolvido para a disciplina **Programação Web - Front End*
 
 ## Links
 
-- [Site publicado](https://ponto-de-respawn-games-0411.laras-almeida03.chatgpt.site)
+- [Site publicado](https://larrinha018-alt.github.io/AOP2/)
 - [Repositório do trabalho](https://github.com/larrinha018-alt/AOP2)
 
 ## Como abrir
